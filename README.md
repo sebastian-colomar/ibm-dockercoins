@@ -1,1 +1,1 @@
-# ibm-dockercoins
+# dockercoins
